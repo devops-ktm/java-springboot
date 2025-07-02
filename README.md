@@ -1,9 +1,27 @@
-Create a basic Journal Entry  Rest API where users can:
+This is a simple Spring Boot REST API for managing journal entries.
 
-Add journal entries
+Features:
 
-View all or individual entries
+ 1.Add journal entries
 
-Update entries
+ 2.View all or individual entries
 
-Delete entries
+ 3.Update entries
+
+ 4.Delete entries
+
+
+# Requirements
+
+- Java 17+
+- Maven
+- Postman
+
+# Run the App
+
+```bash
+https://github.com/web-frameworks-tasks/java-springboot
+cd 
+./mvnw spring-boot:run
+
+
